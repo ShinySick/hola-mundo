@@ -22,3 +22,5 @@ Se agregó el archivo de prueba con el LICENSE de Creative Commons.
 
 //Autor: ShinySick  
 //Fecha: 04/02/2022  
+
+//Git desde VS CODE

@@ -14,7 +14,7 @@ Se crearon issues a partir de las tarjetas en el proyecto.
 Se crearon tarjetas para el proyecto a partir de issues en el repositorio  
 Se creó una pagina basica de wiki para entender la creación y manejo de la wiki.  
 Se modificó el contenido del README.md con el fin de enlistar todos los cambios en la descripción del repositorio.  
-
+Se agregó el archivo de prueba con el LICENSE de Creative Commons.
 
 
 //Primer repositorio creado.  

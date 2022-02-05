@@ -1,2 +1,6 @@
 # hola-mundo
-Mi primer repositorio!!
+
+Primer repositorio creado.
+
+Autor: ShinySick
+Fecha: 04/02/2022
